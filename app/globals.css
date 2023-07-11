@@ -25,3 +25,10 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+tr,
+th,
+td {
+  border: 1px solid rgb(var(--foreground-rgb));
+  padding: 10px;
+}
